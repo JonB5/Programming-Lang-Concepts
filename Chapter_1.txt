@@ -1,0 +1,30 @@
+Chapter 1:
+
+Prelims:
+Why do we study languages ?
+- Increased capacity to express ideas
+- Improved background for choosing appropriate languages
+- Increased ability to learn new languages
+- Better understanding of the significance of implementation
+- Better use of languages that are already known
+- Overall advancement of computing
+
+
+Programming Domains:
+    Scientific Applications
+    - floating point computation
+
+    Business Applications:
+    - having formatted for $, decimal points, building records and keeping records
+    - Big ints by default
+    - Business languages are characterized by facilities for producing elaborate reports, precise ways of describing and storing
+      decimal numbers and character data, and the ability to specify decimal arithmetic operations.
+
+
+    Artifical Inteligence:
+
+    System Programming:
+
+    Web Software(Development):
+
+    Mobile Development:
