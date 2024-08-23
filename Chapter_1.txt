@@ -20,7 +20,6 @@ Programming Domains:
     - Business languages are characterized by facilities for producing elaborate reports, precise ways of describing and storing
       decimal numbers and character data, and the ability to specify decimal arithmetic operations.
 
-
     Artifical Inteligence:
 
     System Programming:
@@ -28,3 +27,31 @@ Programming Domains:
     Web Software(Development):
 
     Mobile Development:
+
+
+Language Eval Criteria:
+
+    Readability
+    - Easy of understanding
+    - Importance for maintaince
+
+    Writability
+    - Ease of creating programs
+
+    Reliability (Safety)
+    - Conformance with specifications
+    - Typechecking, exception handling, alising
+    -
+    Cost
+    - training
+    - maintaining
+    -
+
+
+    what is dr. luginbuls pet peeve
+    - has to do with assignment statements
+    - <= ___
+    = means assignment
+    == equals equal 
+
+
